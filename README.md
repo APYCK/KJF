@@ -21,7 +21,8 @@ EGOPY Global Trader基于开源系统和交易框架，致力于研发更高效�
 * 支持的操作系统版本：openSUSE Leap 15或Ubuntu 20.04 LTS以上，需要安装图形界面
 * 支持的Python版本：64位的Python 3.10.x（**注意必须是Python 64位版本**）
 
-## 启动运行
+## 安装运行
+× 首先安装EGOPY主程序。参考EGOPY项目说明。
 * 通过<code>pip install kjf</code> 方式安装成功后，尝试运行如下代码启动程序：
 * <code>python -m kjf.demo</code> 启动策略测试运行。
 * 实盘操作请直接通过EGOPY进行。

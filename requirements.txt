@@ -19,3 +19,4 @@ peewee==3.17
 EGOPY
 kjf
 ta-lib
+ibapi

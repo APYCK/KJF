@@ -37,8 +37,8 @@ EGOPY Global Trader 始于开源系统和交易框架，致力于研发更高效
 * 也可以通过 <code>pip install kjf</code> 方式直接安装。如有缺失的文件依赖，通过pip或conda方式安装补齐即可。
 * 尝试运行如下代码启动程序：
 * <code>python -m kjf.demo</code> 启动策略测试运行。
-* 实盘操作请直接通过EGOPY进行。
-* 以上操作会自动安装EGOPY主程序。（可以参考EGOPY项目说明。）
+* 实盘操作请直接通过 <code>EGOPY</code> 进行。
+* 以上操作会自动安装 <code>EGOPY</code> 框架。（可以参考EGOPY项目说明。）
 
 ## Copyright
 * BSD

@@ -32,7 +32,7 @@ EGOPY Global Trader 始于开源系统和交易框架，致力于研发更高效
 * 支持的Python版本：64位的Python 3.10.x（**注意必须是Python 64位版本**）
 
 ## 安装运行
-* 预先下载此仓库的requirements.txt文件到本地，然后通过 <code>pip install -r requirements.txt</code> 进行安装。
+* 预先下载此仓库的 <code>requirements.txt</code> 文件到本地，然后通过 <code>pip install -r requirements.txt</code> 进行安装。
 * 如果在中国境内，可以通过命令 <code>pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt</code> 快速安装。
 * 也可以通过 <code>pip install kjf</code> 方式直接安装。如有缺失的文件依赖，通过pip或conda方式安装补齐即可。
 * 尝试运行如下代码启动程序：

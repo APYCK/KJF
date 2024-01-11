@@ -13,7 +13,7 @@
 * Define your trading style.
 
 <p align="left">
-EGOPY Global Trader基于开源系统和交易框架，致力于研发更高效的智能投顾&量化投资交易系统。
+EGOPY Global Trader 始于开源系统和交易框架，致力于研发更高效的智能投顾&量化投资交易系统。
 </p>
 
 

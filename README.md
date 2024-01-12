@@ -28,8 +28,8 @@ EGOPY Global Trader 始于开源系统和交易框架，致力于研发更高效
 * 市场有风险，投资需谨慎。多作研究测试，可以少走弯路。
 
 ## 环境准备
-* 支持的操作系统版本：openSUSE Leap 15或Kubuntu 20.04 LTS以上，需要安装图形界面
-* 支持的Python版本：64位的Python 3.10.x（**注意必须是Python 64位版本**）
+* 支持的操作系统版本：  <code>openSUSE Leap 15</code> 或 <code>Kubuntu 20.04</code> 以上，需要安装图形界面
+* 支持的Python版本：64位的 <code>Python 3.10.x</code> （**注意必须是Python 64位版本**）
 
 ## 安装运行
 * 预先下载此仓库的 <code>requirements.txt</code> 文件到本地，然后通过 <code>pip install -r requirements.txt</code> 进行安装。
@@ -41,4 +41,4 @@ EGOPY Global Trader 始于开源系统和交易框架，致力于研发更高效
 * 以上操作会自动安装 <code>EGOPY</code> 框架。（可以参考EGOPY项目说明。）
 
 ## Copyright
-* BSD
+* BSD 3-Clause License
